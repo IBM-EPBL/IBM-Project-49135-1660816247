@@ -3,10 +3,12 @@ A Novel Method for Handwritten Digit Recognition System
 
 Team Members :
 
-Chandhini B (19z364) - Team Leader
+Timple Rosni Augastina - Team Leader
 
-Sushmitha S (19z352)
+Lavanya S
 
-Swetha GN (19z354)
+Kamali P
 
-Harshitha P (19z320)
+Parthiban 
+
+Dhayathipathi 
